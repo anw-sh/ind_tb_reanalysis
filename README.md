@@ -1,2 +1,4 @@
-# ind_tb_reanalysis
-Re-analysis of four gut microbiome datasets. Includes TB patients and controls. Amplicon datasets.
+# Re-analysis of TB datasets
+Re-analysis of four gut microbiome datasets. 
+Includes TB patients and controls. 
+Amplicon datasets.
